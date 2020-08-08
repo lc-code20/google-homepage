@@ -1,5 +1,4 @@
 # google-homepage
-changing README.md and creating a html project
 
 This project is based on making a Google Homepage using html and css.
 
